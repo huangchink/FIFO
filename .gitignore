@@ -1,0 +1,10 @@
+sim/*.vvp
+sim/*.vcd
+sim/*.fsdb
+sim/*.fst
+sim/*.log
+*.log
+fifo_wave.json
+FIFO_wave.png
+.vscode/
+__pycache__/
