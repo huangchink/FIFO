@@ -90,6 +90,10 @@ python tools/vcd_to_svg.py sim/fifo_wave.vcd sim/fifo_wave.svg
 sim/fifo_wave.svg
 ```
 
+## FIFO 波形圖
+
+![FIFO waveform](FIFO_wave.png)
+
 ## 建議觀察的訊號
 
 - `clk`, `rst_n`: clock 與 reset
